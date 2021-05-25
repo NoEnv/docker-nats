@@ -1,1 +1,1 @@
-FROM nats:2.2.5
+FROM nats:2.2.6
